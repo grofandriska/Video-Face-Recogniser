@@ -1,5 +1,7 @@
 # Video-Face-Recogniser
 
+- Use Visual Studio Code Live Reload to use the software 
+- face-api.js master folder is not required to run software
 
 Face API Library: https://github.com/justadudewhohacks/face-api.js
 
