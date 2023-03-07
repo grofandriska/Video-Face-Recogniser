@@ -1,7 +1,7 @@
 # Video-Face-Recogniser
 
 
-Face API Library: https://github.com/justadudewhohacks/face-api.js
+Face API Library w. documentation: https://github.com/justadudewhohacks/face-api.js
 
 Based on video: Web Dev Simplified
 
